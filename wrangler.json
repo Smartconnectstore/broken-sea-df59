@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "broken-sea-df59",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "daa5b354-abb6-4057-9c55-29dd558b3d25",
+      "database_name": "morning-resonance-d873-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
